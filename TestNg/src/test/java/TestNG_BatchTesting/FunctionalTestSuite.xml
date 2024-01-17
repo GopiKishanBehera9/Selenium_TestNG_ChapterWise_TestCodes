@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Functional Test Suite">
+  <test  name="Functional Testing">
+    <classes>
+      <class name="TestNG_BatchTesting.PaymentTest"/>
+      <class name="TestNG_BatchTesting.ProductPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

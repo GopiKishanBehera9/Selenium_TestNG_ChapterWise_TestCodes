@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Master Suite">
+	<suite-files>
+	<suite-file
+			path="C:\Users\beher\eclipse-workspace\TestNg\SanityTestSuite.xml" />
+		<suite-file
+			path="C:\Users\beher\eclipse-workspace\TestNg\src\test\java\TestNG_BatchTesting\FunctionalTestSuite.xml" />
+	</suite-files>
+</suite>
